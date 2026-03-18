@@ -1,0 +1,10 @@
+{
+  "extends": ["@bonesofspring/stylelint-react"],
+  "customSyntax": "@linaria/postcss-linaria",
+  "rules": {
+    "value-keyword-case": null,
+    "function-name-case": null,
+    "function-no-unknown": null,
+    "selector-type-no-unknown": null
+  }
+}
